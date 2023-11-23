@@ -3,7 +3,6 @@ from db_data_menciones_general import menciones_general__database
 import dash
 from dash import html, dcc, Output, Input, dash_table
 import pandas as pd
-from pysentimiento import SentimentAnalyzer
 from dash.exceptions import PreventUpdate
 import time
 
