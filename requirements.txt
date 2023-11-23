@@ -39,7 +39,6 @@ regex
 retrying
 sacremoses
 schedule
-scikit-learn 
 scipy
 selenium
 semantic-version
