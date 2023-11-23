@@ -166,6 +166,6 @@ def update_layout(n):
 
 
 if __name__ == '__main__':
-    app.run(debug=True,port=8055)
+    app.run(debug=True,host='0.0.0.0')
 
 
