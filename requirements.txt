@@ -32,7 +32,6 @@ pillow
 plotly
 protobuf
 py4j
-pysentimiento
 pyspark
 python-dotenv
 regex
